@@ -1,0 +1,32 @@
+h1{
+    color: red;
+    text-align: center;
+}
+nav ul{
+    display: flex;
+    justify-content: center;
+}
+
+nav li{
+    list-style-type: none;
+    padding: 10px;
+}
+
+h2 {
+    text-align: center;
+    color: blueviolet;
+}
+
+p {
+    text-align: center;
+}
+
+h3 {
+    color: gold;
+    text-align: center;
+}
+
+.muzik li {
+    text-align: center;
+    list-style-position: inside;
+}
